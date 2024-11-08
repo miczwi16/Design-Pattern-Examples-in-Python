@@ -3,4 +3,4 @@ Design Pattern Examples written in Python
 
 This repo contains miniprograms with one implemented design pattern
 
-C - construction design patterns
+C - creational design patterns
